@@ -5,9 +5,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.challenge_4_ilyasa_adam_naufal.Database.Cart
-import com.example.challenge_4_ilyasa_adam_naufal.databinding.ItemCartBinding
-import com.example.challenge_4_ilyasa_adam_naufal.ViewModel.CartViewModel
+import com.example.myapplication.Database.Cart
+import com.example.myapplication.databinding.ItemCartBinding
+import com.example.myapplication.ViewModel.CartViewModel
 import com.example.myapplication.Database.Cart
 import com.example.myapplication.databinding.ItemCartBinding
 import com.google.android.material.snackbar.Snackbar
